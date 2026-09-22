@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Gitflow Lab 5 - Develop Version
-=======
-# Gitflow Lab 5 - Feature Version
->>>>>>> feature/conflict
+
+# Gitflow Lab 5 - Another Develop Version
+
